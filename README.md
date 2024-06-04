@@ -1,3 +1,3 @@
 # coursera-test
 Coursera test repository
-theme : jekyll-them-modernist
+theme : jekyll-theme-modernist
